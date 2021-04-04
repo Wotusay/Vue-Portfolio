@@ -1,0 +1,27 @@
+@import './css/reset.css';
+
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+/* stylelint-disable */
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+/* stylelint-enable */
+
+body {
+    background: radial-gradient(103.58% 293.07% at 0% 0%, #1A40B0 0%, #2F46CD 100%);
+    height: 100vh;
+    color: white;
+    font-size: 1.6rem;
+    width: 100vw;
+}
+
+
+
